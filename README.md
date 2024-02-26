@@ -1,8 +1,6 @@
 Requirements:
 chromium-driver and selenium.
-for debian based linux:
-sudo apt install chromium-driver
-sudo apt install python3-selenium OR pip3 install selenium
+
 
 
 
@@ -23,4 +21,4 @@ then: cd hiisitynnyri
 
 then: python3 goblin_barrel_V2.py
 
-then: write the targets "first_name.surname" which in most cases is their wilma-account.
+then: write the targets "first_name.surname" which in most cases is their wilma-account. Remember to put a punctuation between the targets first name and surname
